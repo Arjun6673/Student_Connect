@@ -49,19 +49,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             case R.id.btnAboutUs:
                 Open(1);
                 break;
-
             case R.id.btnCources:
                 Open(2);
                 break;
-
             case R.id.btnAccreditation:
                 Open(3);
                 break;
-
             case R.id.btnAwards:
                 Open(4);
                 break;
-
             case R.id.btnLifeOfcampus:
                 Open(5);
                 break;
